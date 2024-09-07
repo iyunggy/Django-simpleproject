@@ -1,0 +1,12 @@
+This project using Django 4.2 stable
+
+the project make custom user (overide user default by django) using AbstractBaseUser Manager
+
+- step create superuser
+1. python manage.py createsuperuser
+2. python manage.py shell
+3. python manage.py shell
+  a. from account import models
+  b. .......
+  c. .......
+
